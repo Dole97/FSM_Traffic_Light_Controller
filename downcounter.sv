@@ -26,4 +26,4 @@ always @(posedge clk)
   else
     count <= count;
   end  
-endmodule
+endmodule: counter
