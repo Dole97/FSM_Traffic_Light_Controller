@@ -29,8 +29,8 @@ if cars are still approaching on SW 4th Avenue.
 
 
 
-
-There is also a timer counter operating at clock rate of 1 Hz to keep track of the time.
+# Count-Down Timer
+There is also a Count-Down Timer operating at clock rate of 1 Hz to keep track of the time.
 
 ![image](https://user-images.githubusercontent.com/56908161/161889362-97b7fe32-652f-4880-92ad-da82e5662a64.png)
 
